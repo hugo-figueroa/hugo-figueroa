@@ -39,8 +39,9 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello"/> <br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/gitlab-grey?style=for-the-badge&logo=gitlab"/> <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket"/> <br/>
 <img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/figma-999999?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/google%20analytics-grey?style=for-the-badge&logo=googleanalytics"/> <br/>
-<img src="https://img.shields.io/badge/android%20studio-grey?style=for-the-badge&logo=androidstudio"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/android%20studio-grey?style=for-the-badge&logo=androidstudio"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai"/> <img src="https://img.shields.io/badge/bitrise-683D87?style=for-the-badge&logo=bitrise"/>
 </br>
+
 
 <h3>Languages</h3>
 
