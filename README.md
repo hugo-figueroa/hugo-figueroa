@@ -1,7 +1,7 @@
 ![android](https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/7ea639ef-715b-49e5-994b-db2600978d56)
 
 <p>Welcome to my page! </br></br> I'm <b>Hugo Figueroa</b>, <img src="https://cdn-icons-png.flaticon.com/512/270/270780.png" width="15"/> Android Software Engineer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/1863/1863055.png" width="15"/> <b>Hidalgo, México</b>. </p>
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 <p>I've been an Android Developer for 9 years, I have a lot of experience in defining the architecture of Android applications and in development in general, and I also have experience in managing work teams.</p>
 
@@ -9,7 +9,7 @@
 - 😄 Pronouns: <b>he/him</b>
 - :heart: I love: <b>Android | Dogs | Read Books | Travel | Anime</b>
 
-<h3>Android Skills</h3>
+<h2>Android Skills</h2>
 
 ![Java / Kotlin (Main)](https://img.shields.io/badge/Java%20%2F%20Kotlin%20(Main)-512BD4)
 ![MVP / MVVM / Clean Architecture](https://img.shields.io/badge/MVP%20%2F%20MVVM%20%2F%20Clean%20Architecture-ECD53F)<br/>
@@ -32,7 +32,7 @@
 ![CI / CD](https://img.shields.io/badge/CI%20%2F%20CD%20-A100FF)
 </br>
 
-<h3>Day to Day Tools</h3>
+<h2>Day to Day Tools</h2>
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/> <img src="https://img.shields.io/badge/Microsoft%20Teams-999999?style=for-the-badge&logo=microsoftteams"/> <img src="https://img.shields.io/badge/Skype-grey?style=for-the-badge&logo=skype"/> <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom"/> <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet"/> <br/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree"/> <img src="https://img.shields.io/badge/GitKraken-grey?style=for-the-badge&logo=gitkraken"/> <br/> 
@@ -43,11 +43,11 @@
 </br>
 
 
-<h3>Languages</h3>
+<h2>Languages</h2>
 
 <p> <img src="https://cdn-icons-png.flaticon.com/512/330/330557.png" width="15"/> <b>Spanish - Native</b> <br> <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" width="15"/> <b>English - B1/B2 (Growing Up)</b></p>
 </br>
 
-<h3>Favorite Android Architecture</h3>
+<h2>Favorite Android Architecture</h2>
 
 ![architecture](https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/fb915f19-5b48-4abe-8ce9-6266a54b85c4)
