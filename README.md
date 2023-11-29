@@ -5,7 +5,7 @@
 
 <p>I've been an Android Developer for 9 years, I have a lot of experience in defining the architecture of Android applications and in development in general, and I also have experience in managing work teams.</p>
 
-- 🌱 I’m currently learning <b>Flutter</b>
+- 🌱 I’m currently learning <b>Flutter / Jetpack Compose</b>
 - 😄 Pronouns: <b>he/him</b>
 - :heart: I love: <b>Android | Dogs | Read Books | Travel | Anime</b>
 
