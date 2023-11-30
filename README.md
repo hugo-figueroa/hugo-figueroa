@@ -45,7 +45,7 @@
 
 <h2>Languages</h2>
 
-<p> <img src="https://cdn-icons-png.flaticon.com/512/330/330557.png" width="15"/> <b>Spanish - Native</b> <br> <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" width="15"/> <b>English - B1/B2 (Growing Up)</b></p>
+<p> <img src="https://cdn-icons-png.flaticon.com/512/330/330557.png" width="15"/> <b>Spanish - Native</b> <br> <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" width="15"/> <b>English - Intermediate B1/B2 (Growing Up)</b></p>
 
 <h2>Favorite Android Architecture</h2>
 
