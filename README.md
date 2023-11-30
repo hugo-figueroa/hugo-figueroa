@@ -5,7 +5,7 @@
 
 <p>I've been an Android Developer for 9 years, I have a lot of experience in defining the architecture of Android applications and in development in general, and I also have experience in managing work teams.</p>
 
-- 🌱 I’m currently learning: <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="15"/> <b>Flutter |  <img src="https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/b19424af-6898-40fd-a9f0-8be62925fc85" width="20"/> Jetpack Compose</b>
+- 🌱 I’m currently learning: <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width="15"/> <b>Flutter |  <img src="https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/b19424af-6898-40fd-a9f0-8be62925fc85" width="18"/> Jetpack Compose |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" width="15"/> Kotlin Multiplatform</b>
 - 😄 Pronouns: <b>he/him</b>
 - :heart: I love: <b>Android | Dogs | Read Books | Travel | Anime</b>
 
