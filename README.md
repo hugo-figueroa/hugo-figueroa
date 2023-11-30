@@ -1,6 +1,6 @@
 ![android](https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/7ea639ef-715b-49e5-994b-db2600978d56)
 
-<p>Welcome to my page! </br></br> I'm <b>Hugo Figueroa</b>, <img src="https://cdn-icons-png.flaticon.com/512/270/270780.png" width="15"/> Android Software Engineer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/1863/1863055.png" width="15"/> <b>Hidalgo, México</b>. </p>
+<p>Welcome to my page! </br></br> I'm an <img src="https://cdn-icons-png.flaticon.com/512/270/270780.png" width="15"/> Android Software Engineer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/1863/1863055.png" width="15"/> <b>Hidalgo, México</b>. </p>
 <h2>About Me</h2>
 
 <p>I've been an Android Developer for 9 years, I have a lot of experience in defining the architecture of Android applications and in development in general, and I also have experience in managing work teams.</p>
