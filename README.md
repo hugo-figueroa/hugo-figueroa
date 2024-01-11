@@ -21,7 +21,7 @@
 ![GSON / Moshi](https://img.shields.io/badge/GSON%20%2F%20Moshi%20-EE6123)<br/>
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%20JUnit4%20%7C%20Mockito%20-7952B3)<br/>
 ![Room / Realm](https://img.shields.io/badge/Room%20%2F%20Realm%20-FF6384)
-![Glide / Picasso](https://img.shields.io/badge/Glide%20%2F%20Picasso%20-FF6A4C)
+![Glide / Picasso](https://img.shields.io/badge/Coil%20%2F%20Glide%20%2F%20Picasso%20-FF6A4C)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK%20-3DDC84)
 ![EventBus / Otto / RxBus](https://img.shields.io/badge/EventBus%20%2F%20Otto%20%2F%20RxBus%20-02A9FF)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose%20-DD344C)<br/>
