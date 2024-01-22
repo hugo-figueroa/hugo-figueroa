@@ -49,4 +49,4 @@
 
 <h2>Favorite Android Architecture</h2>
 
-![architecture](https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/fb915f19-5b48-4abe-8ce9-6266a54b85c4)
+![architecture](https://github.com/hugo-figueroa/hugo-figueroa/assets/33041982/3288e8bd-a964-4423-bfb6-9a1268358216)
